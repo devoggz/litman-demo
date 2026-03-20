@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Laptops & PC",
+    "image": "/images/categories/categories-02.png",
+    "slug": "laptops",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  },
+  {
+    "id": 2,
+    "title": "Accessories",
+    "image": "/images/categories/categories-08.png",
+    "slug": "accessories",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  },
+  {
+    "id": 3,
+    "title": "Smart TV's",
+    "image": "/images/categories/categories-01.png",
+    "slug": "televisions",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  },
+  {
+    "id": 4,
+    "title": "Phones & Tablets",
+    "image": "/images/categories/categories-03.png",
+    "slug": "mobile",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  },
+  {
+    "id": 5,
+    "title": "Games & Videos",
+    "image": "/images/categories/categories-04.png",
+    "slug": "games",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  },
+  {
+    "id": 6,
+    "title": "Home Appliances",
+    "image": "/images/categories/categories-05.png",
+    "slug": "appliances",
+    "description": "Description Goes here",
+    "productCount": 5,
+    "postCount": 4
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "bannerName": "oraimo SpaceBuds",
+    "bannerImage": "/images/hero/ear02.png",
+    "slug": "summer-sale-banner",
+    "productId": "prod_001",
+    "subtitle": "Hybrid ANC True Wireless Earbuds",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "updatedAt": "2024-01-20T15:30:00.000Z",
+    "product": {
+      "price": 4999.99,
+      "discountedPrice": 4599.99,
+      "title": "oraimo SpaceBuds",
+      "slug": "oraimo-spaceBuds"
+    }
+  },
+  {
+    "id": 2,
+    "bannerName": "5G Routers",
+    "bannerImage": "/images/hero/airtel-5g.png",
+    "slug": "new-arrivals-banner",
+    "productId": "prod_002",
+    "subtitle": "Built to perform reliably in all conditions.",
+    "createdAt": "2024-01-16T10:00:00.000Z",
+    "updatedAt": "2024-01-21T15:30:00.000Z",
+    "product": {
+      "price": 5999.99,
+      "discountedPrice": 2999,
+      "title": "5G Smart Connect",
+      "slug": "smart-connect"
+    }
+  }
+]

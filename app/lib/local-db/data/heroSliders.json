@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "sliderName": "Featured Deal",
+    "sliderImage": "/images/hero/hero-04.png",
+    "discountRate": 20,
+    "slug": "featured-deal-slider",
+    "productId": "prod_003",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "updatedAt": "2024-01-20T15:30:00.000Z",
+    "product": {
+      "price": 299.99,
+      "discountedPrice": 239.99,
+      "title": "SpaceBox Max 200W Auracast",
+      "slug": "ultra-hd-4k-monitor",
+      "shortDescription": "Feel the Beat, Command the Crowd"
+    }
+  },
+  {
+    "id": 2,
+    "sliderName": "Best Seller",
+    "sliderImage": "/images/hero/slider-4.png",
+    "discountRate": 15,
+    "slug": "best-seller-slider",
+    "productId": "prod_004",
+    "createdAt": "2024-01-16T10:00:00.000Z",
+    "updatedAt": "2024-01-21T15:30:00.000Z",
+    "product": {
+      "price": 199.99,
+      "discountedPrice": 169.99,
+      "title": "Oraimo AMOLED IP68 Smart Watch",
+      "slug": "mechanical-gaming-keyboard",
+      "shortDescription": "The watch has diverse built-in gadgets to meet your various daily usage scenarios."
+    }
+  },
+  {
+    "id": 3,
+    "sliderName": "Limited Edition",
+    "sliderImage": "/images/hero/slider-5.png",
+    "discountRate": 25,
+    "slug": "limited-edition-slider",
+    "productId": "prod_005",
+    "createdAt": "2024-01-17T10:00:00.000Z",
+    "updatedAt": "2024-01-22T15:30:00.000Z",
+    "product": {
+      "price": 399.99,
+      "discountedPrice": 299.99,
+      "title": "SmartAirFryer 1500W Cooking ",
+      "slug": "professional-graphics-tablet",
+      "shortDescription": "oraimo SmartAirFryer offers the ultimate crispy experience with less oil."
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "rev_001",
+    "productSlug": "havit-hv-g69-usb-gamepad",
+    "userName": "John Smith",
+    "userEmail": "john@example.com",
+    "rating": 5,
+    "comment": "Great gamepad! Very responsive and comfortable for long gaming sessions.",
+    "isApproved": true,
+    "createdAt": "2026-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "rev_002",
+    "productSlug": "havit-hv-g69-usb-gamepad",
+    "userName": "Sarah Johnson",
+    "userEmail": "sarah@example.com",
+    "rating": 4,
+    "comment": "Good quality for the price. The buttons feel solid.",
+    "isApproved": true,
+    "createdAt": "2026-01-20T14:20:00.000Z"
+  },
+  {
+    "id": "rev_003",
+    "productSlug": "iphone-14-plus-6-128gb",
+    "userName": "Mike Davis",
+    "userEmail": "mike@example.com",
+    "rating": 5,
+    "comment": "Amazing phone! Battery life is excellent and camera quality is superb.",
+    "isApproved": true,
+    "createdAt": "2026-01-18T09:15:00.000Z"
+  },
+  {
+    "id": "rev_004",
+    "productSlug": "apple-imac-m1-24-inch-2021",
+    "userName": "Emily Chen",
+    "userEmail": "emily@example.com",
+    "rating": 5,
+    "comment": "The M1 chip is incredibly fast. Perfect for video editing and design work.",
+    "isApproved": true,
+    "createdAt": "2026-01-22T16:45:00.000Z"
+  },
+  {
+    "id": "rev_005",
+    "productSlug": "macbook-air-m1-chip-8-256gb",
+    "userName": "David Wilson",
+    "userEmail": "david@example.com",
+    "rating": 5,
+    "comment": "Best laptop I've ever owned. Silent, fast, and the battery lasts all day.",
+    "isApproved": true,
+    "createdAt": "2026-01-25T11:30:00.000Z"
+  },
+  {
+    "id": "rev_006",
+    "productSlug": "macbook-air-m1-chip-8-256gb",
+    "userName": "Lisa Anderson",
+    "userEmail": "lisa@example.com",
+    "rating": 4,
+    "comment": "Great performance, but wish it had more ports.",
+    "isApproved": true,
+    "createdAt": "2026-01-28T13:20:00.000Z"
+  },
+  {
+    "id": "rev_007",
+    "productSlug": "apple-watch-ultra",
+    "userName": "Tom Brown",
+    "userEmail": "tom@example.com",
+    "rating": 5,
+    "comment": "Perfect for outdoor activities. The battery life is impressive!",
+    "isApproved": true,
+    "createdAt": "2026-01-30T10:00:00.000Z"
+  },
+  {
+    "id": "rev_008",
+    "productSlug": "logitech-mx-master-3-mouse",
+    "userName": "Anna Martinez",
+    "userEmail": "anna@example.com",
+    "rating": 5,
+    "comment": "The best mouse for productivity. Ergonomic and feature-rich.",
+    "isApproved": true,
+    "createdAt": "2026-02-01T15:30:00.000Z"
+  },
+  {
+    "id": "rev_009",
+    "productSlug": "logitech-mx-master-3-mouse",
+    "userName": "Chris Taylor",
+    "userEmail": "chris@example.com",
+    "rating": 4,
+    "comment": "Very comfortable and works on any surface. Highly recommend!",
+    "isApproved": true,
+    "createdAt": "2026-02-03T09:45:00.000Z"
+  },
+  {
+    "id": "rev_010",
+    "productSlug": "apple-ipad-air-5th-gen-64gb",
+    "userName": "Rachel Green",
+    "userEmail": "rachel@example.com",
+    "rating": 5,
+    "comment": "Perfect tablet for drawing and note-taking. M1 chip makes it super fast.",
+    "isApproved": true,
+    "createdAt": "2026-02-04T12:15:00.000Z"
+  },
+  {
+    "id": "rev_011",
+    "productSlug": "asus-rt-dual-band-router",
+    "userName": "Kevin Lee",
+    "userEmail": "kevin@example.com",
+    "rating": 4,
+    "comment": "Strong signal throughout the house. Easy to set up.",
+    "isApproved": true,
+    "createdAt": "2026-02-05T14:00:00.000Z"
+  },
+  {
+    "id": "rev_012",
+    "productSlug": "havit-hv-g69-usb-gamepad",
+    "userName": "Jessica White",
+    "userEmail": "jessica@example.com",
+    "rating": 3,
+    "comment": "Decent gamepad but the D-pad could be better.",
+    "isApproved": false,
+    "createdAt": "2026-02-06T10:30:00.000Z"
+  }
+]

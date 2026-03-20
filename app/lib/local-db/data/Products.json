@@ -1,0 +1,562 @@
+[
+  {
+    "id": "prod_001",
+    "title": "Havit HV-G69 USB Gamepad",
+    "shortDescription": "Professional USB gaming controller with ergonomic design",
+    "description": "The Havit HV-G69 USB Gamepad offers precise control and comfortable gaming experience. Features dual analog sticks, vibration feedback, and plug-and-play compatibility with PC and gaming consoles.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "havit-hv-g69-usb-gamepad",
+    "quantity": 45,
+    "updatedAt": "2026-02-01T10:30:00.000Z",
+    "reviews": 15,
+    "category": {
+      "title": "Games & Videos",
+      "slug": "games"
+    },
+    "productVariants": [
+      {
+        "color": "Black",
+        "image": "/images/products/product-1-bg-1.png",
+        "size": "Standard",
+        "isDefault": true
+      },
+      {
+        "color": "Black",
+        "image": "/images/products/product-1-bg-2.png",
+        "size": "Standard",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Connectivity",
+        "description": "USB Wired"
+      },
+      {
+        "name": "Compatibility",
+        "description": "PC, PS3"
+      },
+      {
+        "name": "Cable Length",
+        "description": "1.8 meters"
+      },
+      {
+        "name": "Features",
+        "description": "Dual vibration motors"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Connection Type",
+        "attributeValues": [
+          {
+            "id": "attr_001",
+            "title": "USB Wired"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Ultimate Gaming Control</h2><p>Experience responsive gaming with the Havit HV-G69 gamepad. Dual analog sticks and vibration feedback provide immersive gameplay for all your favorite titles.</p>",
+    "tags": ["Gaming", "Controller", "USB", "Gamepad"],
+    "offers": ["Free Shipping", "30-Day Returns"],
+    "sku": "HAVIT-G69-001"
+  },
+  {
+    "id": "prod_002",
+    "title": "iPhone 14 Plus, 6/128GB",
+    "shortDescription": "Large display iPhone with advanced camera system and all-day battery",
+    "description": "iPhone 14 Plus features a stunning 6.7-inch Super Retina XDR display, advanced dual-camera system, and all-day battery life. Experience the power of A15 Bionic chip.",
+    "price": 899.0,
+    "discountedPrice": 99.0,
+    "slug": "iphone-14-plus-6-128gb",
+    "quantity": 32,
+    "updatedAt": "2026-02-04T09:15:00.000Z",
+    "reviews": 5,
+    "category": {
+      "title": "Mobile & Tablets",
+      "slug": "mobile"
+    },
+    "productVariants": [
+      {
+        "color": "Midnight",
+        "image": "/images/products/product-2-bg-1.png",
+        "size": "128GB",
+        "isDefault": true
+      },
+      {
+        "color": "Blue",
+        "image": "/images/products/product-2-bg-2.png",
+        "size": "128GB",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Display",
+        "description": "6.7-inch Super Retina XDR"
+      },
+      {
+        "name": "Chip",
+        "description": "A15 Bionic chip"
+      },
+      {
+        "name": "Camera",
+        "description": "Dual 12MP camera system"
+      },
+      {
+        "name": "Battery",
+        "description": "Up to 26 hours video playback"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Storage Capacity",
+        "attributeValues": [
+          {
+            "id": "attr_002",
+            "title": "128GB"
+          },
+          {
+            "id": "attr_003",
+            "title": "256GB"
+          },
+          {
+            "id": "attr_004",
+            "title": "512GB"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Big and Beautiful</h2><p>The iPhone 14 Plus brings you a larger 6.7-inch display for an immersive viewing experience. Advanced camera features like Photographic Styles and Cinematic mode.</p>",
+    "tags": ["iPhone", "Apple", "Smartphone", "5G"],
+    "offers": ["Trade-In Credit", "AppleCare+ Available", "Free Shipping"],
+    "sku": "APPLE-IP14PLUS-128-001"
+  },
+  {
+    "id": "prod_003",
+    "title": "Apple iMac M1 24-inch 2021",
+    "shortDescription": "Strikingly thin all-in-one desktop powered by M1 chip",
+    "description": "The 24-inch iMac with M1 chip delivers powerful performance in a spectacularly thin design. Features a 4.5K Retina display, advanced camera and audio, and vibrant color options.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "apple-imac-m1-24-inch-2021",
+    "quantity": 18,
+    "updatedAt": "2026-02-03T14:20:00.000Z",
+    "reviews": 5,
+    "category": {
+      "title": "Laptop & PC",
+      "slug": "laptops"
+    },
+    "productVariants": [
+      {
+        "color": "Blue",
+        "image": "/images/products/product-3-bg-1.png",
+        "size": "24 inch",
+        "isDefault": true
+      },
+      {
+        "color": "Silver",
+        "image": "/images/products/product-3-bg-2.png",
+        "size": "24 inch",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Display",
+        "description": "24-inch 4.5K Retina display"
+      },
+      {
+        "name": "Processor",
+        "description": "Apple M1 chip, 8-core CPU"
+      },
+      {
+        "name": "Memory",
+        "description": "8GB Unified Memory"
+      },
+      {
+        "name": "Storage",
+        "description": "256GB SSD"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Color Options",
+        "attributeValues": [
+          {
+            "id": "attr_005",
+            "title": "Blue"
+          },
+          {
+            "id": "attr_006",
+            "title": "Green"
+          },
+          {
+            "id": "attr_007",
+            "title": "Pink"
+          },
+          {
+            "id": "attr_008",
+            "title": "Silver"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Impossibly Thin. Incredibly Powerful</h2><p>The new iMac features the M1 chip for incredible performance. The stunning 4.5K Retina display brings images to life with vivid colors and sharp text.</p>",
+    "tags": ["iMac", "Apple", "M1", "Desktop", "All-in-One"],
+    "offers": ["Free Engraving", "Education Discount Available"],
+    "sku": "APPLE-IMAC24-M1-001"
+  },
+  {
+    "id": "prod_004",
+    "title": "MacBook Air M1 chip, 8/256GB",
+    "shortDescription": "Thin, light, and powerful laptop with M1 chip",
+    "description": "MacBook Air with M1 chip delivers incredible performance and up to 18 hours of battery life. Features a stunning Retina display and fanless design for silent operation.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "macbook-air-m1-chip-8-256gb",
+    "quantity": 24,
+    "updatedAt": "2026-02-02T16:45:00.000Z",
+    "reviews": 6,
+    "category": {
+      "title": "Laptop & PC",
+      "slug": "laptops"
+    },
+    "productVariants": [
+      {
+        "color": "Space Gray",
+        "image": "/images/products/product-4-bg-1.png",
+        "size": "13.3 inch",
+        "isDefault": true
+      },
+      {
+        "color": "Silver",
+        "image": "/images/products/product-4-bg-2.png",
+        "size": "13.3 inch",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Processor",
+        "description": "Apple M1 chip, 8-core CPU"
+      },
+      {
+        "name": "Memory",
+        "description": "8GB Unified Memory"
+      },
+      {
+        "name": "Storage",
+        "description": "256GB SSD"
+      },
+      {
+        "name": "Display",
+        "description": "13.3-inch Retina display"
+      },
+      {
+        "name": "Battery Life",
+        "description": "Up to 18 hours"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Storage",
+        "attributeValues": [
+          {
+            "id": "attr_009",
+            "title": "256GB"
+          },
+          {
+            "id": "attr_010",
+            "title": "512GB"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Power. It's in the Air.</h2><p>The M1 chip makes MacBook Air incredibly fast and powerful. Work all day with up to 18 hours of battery life, fanless design keeps it silent.</p>",
+    "tags": ["MacBook", "Apple", "M1", "Laptop", "Ultrabook"],
+    "offers": ["Free Engraving", "Student Discount"],
+    "sku": "APPLE-MBA-M1-256-001"
+  },
+  {
+    "id": "prod_005",
+    "title": "Apple Watch Ultra",
+    "shortDescription": "Rugged and capable smartwatch for extreme athletes",
+    "description": "The most rugged and capable Apple Watch. Features a 49mm titanium case, precision dual-frequency GPS, and up to 36 hours of battery life.",
+    "price": 99.0,
+    "discountedPrice": 29.0,
+    "slug": "apple-watch-ultra",
+    "quantity": 27,
+    "updatedAt": "2026-02-03T13:10:00.000Z",
+    "reviews": 3,
+    "category": {
+      "title": "Watches",
+      "slug": "watches"
+    },
+    "productVariants": [
+      {
+        "color": "Natural Titanium",
+        "image": "/images/products/product-5-bg-1.png",
+        "size": "49mm",
+        "isDefault": true
+      },
+      {
+        "color": "Natural Titanium",
+        "image": "/images/products/product-5-bg-2.png",
+        "size": "49mm",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Case Size",
+        "description": "49mm"
+      },
+      {
+        "name": "Material",
+        "description": "Titanium"
+      },
+      {
+        "name": "Water Resistance",
+        "description": "100m / EN13319"
+      },
+      {
+        "name": "Battery Life",
+        "description": "Up to 36 hours"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Band Type",
+        "attributeValues": [
+          {
+            "id": "attr_011",
+            "title": "Alpine Loop"
+          },
+          {
+            "id": "attr_012",
+            "title": "Trail Loop"
+          },
+          {
+            "id": "attr_013",
+            "title": "Ocean Band"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Built for Adventure</h2><p>With a rugged titanium case, extra-long battery life, and specialized features for ocean sports, hiking, and more. The brightest Apple display ever at 3000 nits.</p>",
+    "tags": ["Apple Watch", "Smartwatch", "Fitness", "Ultra"],
+    "offers": ["Free Band Upgrade", "AppleCare+ Available"],
+    "sku": "APPLE-WATCH-ULTRA-001"
+  },
+  {
+    "id": "prod_006",
+    "title": "Logitech MX Master 3 Mouse",
+    "shortDescription": "Advanced wireless mouse for power users and professionals",
+    "description": "Logitech MX Master 3 features ultra-fast scrolling, ergonomic design, and customizable buttons. Works on any surface including glass with 4000 DPI Darkfield sensor.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "logitech-mx-master-3-mouse",
+    "quantity": 56,
+    "updatedAt": "2026-01-30T11:20:00.000Z",
+    "reviews": 15,
+    "category": {
+      "title": "Accessories",
+      "slug": "accessories"
+    },
+    "productVariants": [
+      {
+        "color": "Graphite",
+        "image": "/images/products/product-6-bg-1.png",
+        "size": "Standard",
+        "isDefault": true
+      },
+      {
+        "color": "Mid Gray",
+        "image": "/images/products/product-6-bg-2.png",
+        "size": "Standard",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Connectivity",
+        "description": "Bluetooth, USB Receiver"
+      },
+      {
+        "name": "Battery Life",
+        "description": "Up to 70 days"
+      },
+      {
+        "name": "Sensor",
+        "description": "4000 DPI Darkfield"
+      },
+      {
+        "name": "Buttons",
+        "description": "7 customizable buttons"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Features",
+        "attributeValues": [
+          {
+            "id": "attr_014",
+            "title": "MagSpeed Scroll"
+          },
+          {
+            "id": "attr_015",
+            "title": "Multi-Device"
+          },
+          {
+            "id": "attr_016",
+            "title": "Ergonomic Design"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Master Your Workflow</h2><p>The MX Master 3 is designed for power users. Ultra-fast scrolling, app-specific customization, and seamless multi-device control make it the ultimate productivity tool.</p>",
+    "tags": ["Logitech", "Mouse", "Wireless", "Productivity"],
+    "offers": ["Free Shipping", "1 Year Warranty"],
+    "sku": "LOGI-MXMASTER3-001"
+  },
+  {
+    "id": "prod_007",
+    "title": "Apple iPad Air 5th Gen - 64GB",
+    "shortDescription": "Powerful and versatile tablet with M1 chip",
+    "description": "iPad Air with M1 chip delivers incredible performance in a thin and light design. Features a stunning 10.9-inch Liquid Retina display and supports Apple Pencil and Magic Keyboard.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "apple-ipad-air-5th-gen-64gb",
+    "quantity": 35,
+    "updatedAt": "2026-02-02T15:00:00.000Z",
+    "reviews": 15,
+    "category": {
+      "title": "Mobile & Tablets",
+      "slug": "mobile"
+    },
+    "productVariants": [
+      {
+        "color": "Space Gray",
+        "image": "/images/products/product-7-bg-1.png",
+        "size": "10.9 inch",
+        "isDefault": true
+      },
+      {
+        "color": "Starlight",
+        "image": "/images/products/product-7-bg-2.png",
+        "size": "10.9 inch",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "Display",
+        "description": "10.9-inch Liquid Retina"
+      },
+      {
+        "name": "Processor",
+        "description": "Apple M1 chip"
+      },
+      {
+        "name": "Storage",
+        "description": "64GB"
+      },
+      {
+        "name": "Camera",
+        "description": "12MP Wide, 12MP Ultra Wide front"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Storage",
+        "attributeValues": [
+          {
+            "id": "attr_017",
+            "title": "64GB"
+          },
+          {
+            "id": "attr_018",
+            "title": "256GB"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Light. Bright. Full of Might.</h2><p>iPad Air with M1 chip is a creative powerhouse. Supports Apple Pencil for note-taking and drawing, and Magic Keyboard for productivity.</p>",
+    "tags": ["iPad", "Apple", "Tablet", "M1"],
+    "offers": ["Apple Pencil Compatible", "Education Discount"],
+    "sku": "APPLE-IPADAIR5-64-001"
+  },
+  {
+    "id": "prod_008",
+    "title": "Asus RT Dual Band Router",
+    "shortDescription": "High-performance WiFi 6 router for seamless connectivity",
+    "description": "Asus RT WiFi 6 router delivers ultra-fast speeds and reliable connectivity. Features dual-band support, advanced security, and easy setup for home and office networks.",
+    "price": 59.0,
+    "discountedPrice": 29.0,
+    "slug": "asus-rt-dual-band-router",
+    "quantity": 0,
+    "updatedAt": "2026-01-31T12:00:00.000Z",
+    "reviews": 15,
+    "category": {
+      "title": "Accessories",
+      "slug": "accessories"
+    },
+    "productVariants": [
+      {
+        "color": "Black",
+        "image": "/images/products/product-8-bg-1.png",
+        "size": "Standard",
+        "isDefault": true
+      },
+      {
+        "color": "Black",
+        "image": "/images/products/product-8-bg-2.png",
+        "size": "Standard",
+        "isDefault": false
+      }
+    ],
+    "additionalInformation": [
+      {
+        "name": "WiFi Standard",
+        "description": "WiFi 6 (802.11ax)"
+      },
+      {
+        "name": "Speed",
+        "description": "Up to 3000 Mbps"
+      },
+      {
+        "name": "Coverage",
+        "description": "Up to 3000 sq ft"
+      },
+      {
+        "name": "Ports",
+        "description": "4x Gigabit LAN, 1x Gigabit WAN"
+      }
+    ],
+    "customAttributes": [
+      {
+        "attributeName": "Features",
+        "attributeValues": [
+          {
+            "id": "attr_019",
+            "title": "MU-MIMO"
+          },
+          {
+            "id": "attr_020",
+            "title": "Beamforming"
+          },
+          {
+            "id": "attr_021",
+            "title": "Parental Controls"
+          }
+        ]
+      }
+    ],
+    "body": "<h2>Next-Gen WiFi Speed</h2><p>Experience the power of WiFi 6 with the Asus RT router. Supports multiple devices simultaneously with MU-MIMO technology and advanced QoS for gaming and streaming.</p>",
+    "tags": ["Asus", "Router", "WiFi 6", "Networking"],
+    "offers": ["Free Setup Service", "2 Year Warranty"],
+    "sku": "ASUS-RT-WIFI6-001"
+  }
+]
