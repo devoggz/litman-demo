@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: false,
+  outputFileTracingIncludes: {
+    "/**": ["./app/lib/local-db/data/**/*.json"],
+  },
   images: {
     remotePatterns: [
       {
