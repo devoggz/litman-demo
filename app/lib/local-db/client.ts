@@ -303,7 +303,7 @@ export const localDB = {
       select?: { [key: string]: any };
       include?: { [key: string]: any };
     }) {
-      const filePath = path.join(DATA_DIR, "products.json");
+      const filePath = path.join(DATA_DIR, "Products.json");
       const data = await fs.readFile(filePath, "utf-8");
       const products = JSON.parse(data);
 
